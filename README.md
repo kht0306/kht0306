@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=HUNGTAE's%20GitHub&fontSize=70&animation=scaleIn)
-<div align='center'><br>
+<div align='center'>
 <B>Tech Stack</B><br>
 <B>(Main)</B><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
