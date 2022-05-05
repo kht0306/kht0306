@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=ORACLE&logoColor=white"/>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/>
 <br>
-<B>(used at least once)</B> <br>
+<B>(Used at least once)</B> <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=JQUERY&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
