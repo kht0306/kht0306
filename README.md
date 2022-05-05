@@ -1,6 +1,6 @@
-<p align="center">
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=HUNGTAE's%20GitHub&fontSize=70&animation=scaleIn)
-</p>
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=HUNGTAE's%20GitHub&fontSize=70&animation=scaleIn"/>
+</div>
 <div align=center>
 <B>Tech Stack</B><br>
 <B>(Main)</B><br>
